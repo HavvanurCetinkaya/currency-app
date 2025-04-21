@@ -1,5 +1,3 @@
 # Canlı Döviz Kuru
 
-![Uygulama Ekran Görüntüsü](currency-app/src/images/EkranGörüntüsü.png)
-
-  
+![Uygulama Ekran Görüntüsü](./src/images/EkranGörüntüsü.png)
