@@ -1,5 +1,5 @@
 # Canlı Döviz Kuru
 
-![Uygulama Ekran Görüntüsü](https://hizliresim.com/ped7net)
 
   
+  ![Uygulama Ekran Görüntüsü](EkranGörüntüsü.png)
